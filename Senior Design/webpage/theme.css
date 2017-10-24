@@ -1,0 +1,43 @@
+body > div.jumbotron {
+	background-color: #00853e;
+	color: #ffffff;	
+	padding: 100px 25px;
+}
+
+#unt {
+	letter-spacing: 1px;
+}
+
+body > div.container-fluid {
+	padding: 60px 50px;
+}
+
+#team-container {
+	background: #f5f5f5;
+}
+
+body > nav.navbar {
+    margin-bottom: 0;
+    background-color: #00853e;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+body > nav.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+body > nav.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #00853e !important;
+    background-color: #fff !important;
+}
+
+body > nav.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
